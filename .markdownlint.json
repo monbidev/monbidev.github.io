@@ -1,0 +1,18 @@
+{
+    "default": true,
+    "ul-style": { "style": "dash" },
+    "html": false,
+    "line-length": false,
+    "fenced-code-language": false,
+    "no-hard-tabs": true,
+    "blanks-around-headings": false,
+    "ul-indent": false,
+    "commands-show-output": false,
+    "no-bare-urls": false,
+    "ol-prefix": false,
+    "no-trailing-punctuation": false,
+    "no-space-in-links": false,
+    "no-space-in-emphasis": false,
+    "emphasis-style": { "style": "underscore" },
+    "strong-style": { "style": "asterisk" }
+}
